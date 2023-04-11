@@ -5,7 +5,7 @@
 - 😸 I work on redcatOS and own [@redcatWare](https://github.com/redcatWare)
 
 # 📫 How to reach me
-- Email: [redpcat@redcatos.com](mailto:redpcat@redcatos.com) | [redpcatyt@hotmail.com](mailto:redpcatyt@hotmail.com)
+- Email: [owner@redcatware.net](mailto:owner@redcatware.net) | [redpcatyt@hotmail.com](mailto:redpcatyt@hotmail.com)
 - Twitter: [@RedcatPlus](https://twitter.com/redcatplus)
 - Instagram: [@official.redpcat](https://www.instagram.com/official.redpcat/)
 - TikTok: [@RedcatPhoenix (first acc)](https://www.tiktok.com/@redcatphoenix) [@RedcatPlus (second acc)](https://www.tiktok.com/@redcatphoenix)
@@ -13,7 +13,7 @@
 
 # 📫 How to reach redcatWare Devs
 - Email: contact@redcatos.com
-- Contact Site: https://redcatos.com/contact
+- Contact Site: https://redcatware.net/contact
 - GitHub: [@redcatWare](https://github.com/redcatWare)
  
 <!---
