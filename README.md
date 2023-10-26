@@ -6,11 +6,9 @@
 
 # 📫 How to reach me
 - Email: [owner@redcatware.net](mailto:owner@redcatware.net) | [redpcatyt@hotmail.com](mailto:redpcatyt@hotmail.com)
-- Twitter: [@RedcatPlus](https://twitter.com/redcatplus)
-- Instagram: [@official.redpcat](https://www.instagram.com/official.redpcat/)
-- TikTok: [@RedcatPhoenix (first acc)](https://www.tiktok.com/@redcatphoenix) [@RedcatPlus (second acc)](https://www.tiktok.com/@redcatphoenix)
-- Discord: [Redcat Forever](https://discord.gg/ZvmueRCzDj) [redcatWare](https://discord.gg/4mjD3Fseas)
-
+- Twitter: [@TheRedcatGod](https://twitter.com/theredcatgod)
+- Instagram: [@redpcat](https://www.instagram.com/redpcat/) [(Threads account)](https://www.threads.net/redpcat/)
+  
 # 📫 How to reach redcatWare Devs
 - Email: contact@redcatos.com
 - Contact Site: https://redcatware.net/contact
