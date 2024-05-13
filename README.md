@@ -1,17 +1,18 @@
 # About me
-- 👋 Hi, I’m @RedPCat
+- 👋 Hi, I’m Phoenix
 - 👀 I’m interested in making the world a better place.
 - 🌱 I’m currently learning multiple languages
-- 😸 I work on redcatOS and own [@redcatWare](https://github.com/redcatWare)
+- 😸 I work on redcatOS and own [@redcatWare](https://github.com/redcatWare) & [@netcord-team](https://github.com/netcord-team)
 
 # 📫 How to reach me
-- Email: [owner@redcatware.net](mailto:owner@redcatware.net) | [redpcatyt@hotmail.com](mailto:redpcatyt@hotmail.com)
-- Twitter: [@TheRedcatGod](https://twitter.com/theredcatgod)
-- Instagram: [@redpcat](https://www.instagram.com/redpcat/) [(Threads account)](https://www.threads.net/redpcat/)
+- Email: [phoenix.fireclaw@mail.redpcat.tech](mailto:phoenix.fireclaw@mail.redpcat.tech)
+- Twitter: [@WingedRedcat](https://twitter.com/wingedredcat)
+- Bluesky: [@redpcat.tech](https://bsky.app/profile/redpcat.tech)
+- Instagram: [@redpcat](https://www.instagram.com/redpcat.tech/) [(Threads account)](https://www.threads.net/redpcat.tech/)
   
 # 📫 How to reach redcatWare Devs
 - Email: contact@redcatos.com
-- Contact Site: https://redcatware.net/contact
+- Contact Site: [https://redcatware.net/contact](https://redcatware.net/contact)
 - GitHub: [@redcatWare](https://github.com/redcatWare)
  
 <!---
