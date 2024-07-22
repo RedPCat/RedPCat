@@ -11,7 +11,7 @@
 - Instagram: [@redpcat](https://www.instagram.com/redpcat.tech/) [(Threads account)](https://www.threads.net/redpcat.tech/)
   
 # 📫 How to reach redcatWare Devs
-- Email: contact@redcatos.com
+- Email: contact@redcatware.net
 - Contact Site: [https://redcatware.net/contact](https://redcatware.net/contact)
 - GitHub: [@redcatWare](https://github.com/redcatWare)
  
