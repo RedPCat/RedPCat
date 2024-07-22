@@ -10,10 +10,10 @@
 - Bluesky: [@redpcat.tech](https://bsky.app/profile/redpcat.tech)
 - Instagram: [@redpcat](https://www.instagram.com/redpcat.tech/) [(Threads account)](https://www.threads.net/redpcat.tech/)
   
-# 📫 How to reach redcatWare Devs
+# 📫 How to reach Redcat Technologies
 - Email: contact@redcatware.net
 - Contact Site: [https://redcatware.net/contact](https://redcatware.net/contact)
-- GitHub: [@redcatWare](https://github.com/redcatWare)
+- GitHub: [@Redcat Technologies](https://github.com/redcatWare)
  
 <!---
 RedPCat/RedPCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
