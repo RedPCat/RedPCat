@@ -1,5 +1,5 @@
 # About me
-- 👋 Hi, I’m Phoenix
+- 👋 Hi, I’m Phoenyx
 - 👀 I’m interested in making the world a better place.
 - 🌱 I’m currently learning multiple languages
 - 😸 I work on redcatOS and own [@redcatWare](https://github.com/redcatWare) & [@netcord-team](https://github.com/netcord-team)
